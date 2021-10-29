@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate developer <p>As a full stack developer, I have experience in financial software development and blockchain. Skilled in Node.js, Solidity, AWS, React. Also, I have got an impressive ability of learning and gaining new skills.</p></h3>
 
 - 🔭 I’m currently working on **Blockchain**
 

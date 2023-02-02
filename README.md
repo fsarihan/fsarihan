@@ -2,7 +2,7 @@ As a full stack developer, I have experience in financial software development a
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 💬 Ask me about **Nodejs, Solidity, React**
+- 💬 Ask me about **Node.js, Solidity, React**
 
 
 
